@@ -61,7 +61,7 @@ SQLcrack is a powerful, feature-rich command-line tool designed for security pro
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/AZzykJa/sqlcrack.git
+   git clone https://github.com/azkalangga1-netizen/SQLCRACK.git
    cd sqlcrack
    ```
 
@@ -291,7 +291,7 @@ python3 sqlcrack.py -f "http://target.com/page?id=1"
 pkg install python3
 
 # Clone and run
-git clone https://github.com/AZzykJa/sqlcrack.git
+git clone https://github.com/azkalangga1-netizen/SQLCRACK.git
 cd sqlcrack
 pip install requests
 python3 sqlcrack.py -f "http://target.com/page?id=1"
@@ -485,4 +485,4 @@ SQLcrack is provided "as-is" without warranty of any kind. Users assume all resp
 ---
 
 *Last Updated: 2026-10-11*
-*For updates, visit:
+*For updates, visit:https://github.com/azkalangga1-netizen/SQLCRACK.git
